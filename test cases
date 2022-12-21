@@ -1,0 +1,7 @@
+test cases:
+
+1. to check if the table is being displayed onto the website (html, css part)
+2. is the user able to upload images into the image folder
+3. is the mqtt connection able to send each code character by charcter as the user starts typing
+4.is data getting stored into the databse
+5.is teacher able to get the live updates of changes made by the students
